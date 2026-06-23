@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Apiux CL<br>🌱 I’m currently learning SwiftUI & Springboot<br>⚡ Fun fact, im DJing on my freetime
+  🔭 I’m currently working on Drimo CL<br>🌱 React and React Native Lover<br>⚡ Fun fact, im DJing on my freetime
 
 
 ## 🌐 Socials:
